@@ -10,6 +10,7 @@ html {
 }
 
 body {
+    background-image: url("http://www.caribpress.com/wp-content/uploads/2017/03/Travel-site.jpg");
     display: flex;
     margin: 0;
     height: 100%;
